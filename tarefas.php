@@ -1,3 +1,8 @@
+<!-- A Ideia pegar o que está no URL  e colocar em $_GET( que é uma variável global) 
+depois verificar com isset() se o índice  “nome” existe.
+e depois passar para um arry e exibir a lista de tarefas -->
+
+
 <!DOCTYPE html>
 <?php session_start(); ?>
 <html lang="pt-br">
